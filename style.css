@@ -1,0 +1,63 @@
+
+#date{
+	color: blue;
+}
+
+
+
+.top{
+margin: auto;
+	border: 2px solid green;
+
+border-radius: 6px;
+height: 1500px;
+width: 1100px;
+
+}
+.logo
+{
+	float: left;
+	padding: 30px;
+}
+
+.nom{
+  margin-top : 90px;
+
+}
+.destinataire{
+
+	padding: 50px;
+
+	
+
+}
+.espacement{
+
+ padding-right: 400px;
+}
+
+
+
+footer {
+margin: 200px;
+
+padding: 400px;
+
+position:absolute;
+
+bottom:-500px;
+
+width: 950px;
+
+padding-bottom:640x;
+
+height:50px;
+
+
+border-radius: 6px;
+}
+.td1
+{
+	border: none;
+
+}
