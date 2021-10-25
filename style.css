@@ -61,3 +61,10 @@ border-radius: 6px;
 	border: none;
 
 }
+
+textarea
+{
+	color: blue;
+line-height: 1;
+outline-width: 1;
+}
